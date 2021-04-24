@@ -1,2 +1,10 @@
-This is an example of developing an intrusion detection system using deep neural networks using python and matlab.
-It is actually based on a class project on Machine Learning I course.
+I have developed an intrusion detection system using deep neural networks using python and matlab. We have used KDD Cup and NSL KDD datasets.
+It is based on a class project on Machine Learning I MSIM 607 course at Old Dominion University. 
+
+The complete Matlab and python files are given inside the zip file. Other files are given for the python coding of Support Vector Machine, Convolutional Neural Network and Deep Neural Network.
+
+If you use the codes, please feel free to cite: 
+
+1. Haque, Md Ariful, Sachin Shetty, Charles A. Kamhoua, and Kimberly Gold. "Integrating Mission-Centric Impact Assessment to Operational Resiliency in Cyber-Physical Systems." In GLOBECOM 2020-2020 IEEE Global Communications Conference, pp. 1-7. IEEE, 2020.
+
+2. Haque, Md Ariful, Sachin Shetty, Charles A. Kamhoua, and Kimberly Gold. "Modeling Mission Impact of Cyber Attacks on Energy Delivery Systems." In International Conference on Security and Privacy in Communication Systems, pp. 41-61. Springer, Cham, 2020.
