@@ -1,5 +1,4 @@
-I have developed an intrusion detection system using deep neural networks using python and matlab. We have used KDD Cup and NSL KDD datasets.
-It is based on a class project on Machine Learning I MSIM 607 course at Old Dominion University. 
+I have developed an intrusion detection system using deep neural networks using python and matlab. We have used KDD Cup and NSL KDD datasets. It is based on a class project on Machine Learning I MSIM 607 course at Old Dominion University. 
 
 The complete Matlab and python files are given inside the zip file. Other files are given for the python coding of Support Vector Machine, Convolutional Neural Network and Deep Neural Network.
 
